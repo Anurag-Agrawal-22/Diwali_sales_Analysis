@@ -40,7 +40,7 @@ unnamed1: (Unused column).
 
 To run this analysis locally, ensure you have Python installed along with the following libraries:
 
-pip install numpy pandas matplotlib seaborn
+''' pip install numpy pandas matplotlib seaborn '''
 
 ## Usage
 

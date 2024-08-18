@@ -1,4 +1,4 @@
-Diwali Sales Analysis
+#Diwali Sales Analysis
 This project involves analyzing a dataset of Diwali sales to gain insights into customer demographics, product preferences, and regional sales performance. The analysis is performed using Python, with data manipulation and visualization handled through pandas, matplotlib, and seaborn.
 
 Table of Contents

@@ -1,7 +1,8 @@
-#Diwali Sales Analysis
+# Diwali Sales Analysis
+
 This project involves analyzing a dataset of Diwali sales to gain insights into customer demographics, product preferences, and regional sales performance. The analysis is performed using Python, with data manipulation and visualization handled through pandas, matplotlib, and seaborn.
 
-Table of Contents
+## Table of Contents
 
 Project Overview
 Dataset
@@ -10,11 +11,11 @@ Usage
 Analysis Overview
 Results
 
-Project Overview
+## Project Overview
 
 The goal of this project is to provide a comprehensive analysis of sales data collected during the Diwali festival. The analysis covers various dimensions such as customer demographics, product categories, and geographical sales distribution.
 
-Dataset
+## Dataset
 
 The dataset used in this analysis is named Diwali_Sales_Data.csv. It contains 11,251 records with the following columns:
 
@@ -35,20 +36,20 @@ Status: (Unused column).
 unnamed1: (Unused column).
 
 
-Installation
+## Installation
 
 To run this analysis locally, ensure you have Python installed along with the following libraries:
 
 pip install numpy pandas matplotlib seaborn
 
-Usage
+## Usage
 
 Clone the repository to your local machine.
 Place the dataset Diwali_Sales_Data.csv in the same directory as the notebook.
 Open Diwali_Sales_Analysis.ipynb using Jupyter Notebook or Jupyter Lab.
 Run the cells sequentially to perform the analysis.
 
-Analysis Overview
+## Analysis Overview
 
 The analysis includes the following steps:
 
@@ -63,7 +64,7 @@ Product category analysis.
 
 Visualization of key insights using bar plots, pie charts, and other visual tools.
 
-Results
+## Results
 
 Key findings from the analysis will be highlighted here, such as:
 
